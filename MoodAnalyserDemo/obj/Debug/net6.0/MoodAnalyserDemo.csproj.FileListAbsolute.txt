@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\MoodAnalyser\MoodAnalyserDemo\MoodAnalyserDemo\bin\Debug\net6.0\MoodAnalyserDemo.exe
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\MoodAnalyser\MoodAnalyserDemo\MoodAnalyserDemo\bin\Debug\net6.0\MoodAnalyserDemo.deps.json
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\MoodAnalyser\MoodAnalyserDemo\MoodAnalyserDemo\bin\Debug\net6.0\MoodAnalyserDemo.runtimeconfig.json
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\MoodAnalyser\MoodAnalyserDemo\MoodAnalyserDemo\bin\Debug\net6.0\MoodAnalyserDemo.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\MoodAnalyser\MoodAnalyserDemo\MoodAnalyserDemo\bin\Debug\net6.0\MoodAnalyserDemo.pdb
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\MoodAnalyser\MoodAnalyserDemo\MoodAnalyserDemo\obj\Debug\net6.0\MoodAnalyserDemo.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\MoodAnalyser\MoodAnalyserDemo\MoodAnalyserDemo\obj\Debug\net6.0\MoodAnalyserDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\MoodAnalyser\MoodAnalyserDemo\MoodAnalyserDemo\obj\Debug\net6.0\MoodAnalyserDemo.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\MoodAnalyser\MoodAnalyserDemo\MoodAnalyserDemo\obj\Debug\net6.0\MoodAnalyserDemo.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\MoodAnalyser\MoodAnalyserDemo\MoodAnalyserDemo\obj\Debug\net6.0\MoodAnalyserDemo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\MoodAnalyser\MoodAnalyserDemo\MoodAnalyserDemo\obj\Debug\net6.0\MoodAnalyserDemo.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\MoodAnalyser\MoodAnalyserDemo\MoodAnalyserDemo\obj\Debug\net6.0\refint\MoodAnalyserDemo.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\MoodAnalyser\MoodAnalyserDemo\MoodAnalyserDemo\obj\Debug\net6.0\MoodAnalyserDemo.pdb
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\MoodAnalyser\MoodAnalyserDemo\MoodAnalyserDemo\obj\Debug\net6.0\MoodAnalyserDemo.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\MoodAnalyser\MoodAnalyserDemo\MoodAnalyserDemo\obj\Debug\net6.0\ref\MoodAnalyserDemo.dll
